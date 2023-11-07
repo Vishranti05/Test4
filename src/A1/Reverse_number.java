@@ -2,9 +2,10 @@ package A1;
 
 public class Reverse_number
 {
+	//reverse number
 	public static void main(String[] args) 
 	{
-		int num=12345;
+		int num=123456;
 		int rem=0;
 		int rev=0;
 		
